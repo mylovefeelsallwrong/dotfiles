@@ -1,2 +1,2 @@
 # dotfiles
-the first of many, most likely
+self-explanatory title
