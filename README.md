@@ -1,2 +1,2 @@
 # dotfiles
-the first of many most likely
+the first of many, most likely
