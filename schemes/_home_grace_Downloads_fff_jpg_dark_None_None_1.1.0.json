@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/grace/Downloads/fff.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0D10",
+        "foreground": "#e3d8cd",
+        "cursor": "#e3d8cd"
+    },
+    "colors": {
+        "color0": "#0C0D10",
+        "color1": "#726E6E",
+        "color2": "#912833",
+        "color3": "#887674",
+        "color4": "#91837B",
+        "color5": "#918B8A",
+        "color6": "#ADA4A1",
+        "color7": "#e3d8cd",
+        "color8": "#9e978f",
+        "color9": "#726E6E",
+        "color10": "#912833",
+        "color11": "#887674",
+        "color12": "#91837B",
+        "color13": "#918B8A",
+        "color14": "#ADA4A1",
+        "color15": "#e3d8cd"
+    }
+}
